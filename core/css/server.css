@@ -68,6 +68,10 @@ body > #page {
     justify-content: center;
 }
 
+.login-box {
+    visibility: collapse;
+}
+
 /**** NAVBAR ***/
 .navbar-default {
     border: 0 !important;
