@@ -113,6 +113,6 @@ body > #page {
   margin-left: 20px;
 }
 
-div.col-xs-12:nth-child(2) > div:nth-child(1) {
+div.col-xs-12.col-sm-6.col-md-6.description-home div div form {
     visibility: hidden;
 }
