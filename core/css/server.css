@@ -66,6 +66,11 @@ body > #page {
     display: flex;
     text-align: center;
     justify-content: center;
+    padding-top: 10%;
+}
+
+#b2access-login .btn {
+    border-radius: 15px;
 }
 
 .login-box {
