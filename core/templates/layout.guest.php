@@ -91,7 +91,10 @@
                     <?php print_unescaped($_['content']); ?>
 					<?php if(isset($_['alt_login'])): foreach($_['alt_login'] as $altlogin): ?>
 						<a class="btn btn-primary btn-block active" href="<?php print($altlogin["href"]) ?>"><?php print($altlogin["name"]) ?></a>
-					<?php endforeach; endif; ?>
+					<?php endforeach; ?>
+						<br />
+						<a href="https://csc-eudat.pages.eudat.eu/privacy-policy/">Which authentication method should I use?</a>
+					<?php endif; ?>
                 </div>
             </div>
         </div>
