@@ -63,7 +63,7 @@
 							</div>
 						</div>
 						<div class="col-md-2 align-self-center" >
-						<img src="/themes/b2drop/apps/core/img/logo.png" alt="Placeholder+logo" width="199px">
+						<a href="/"><img src="/themes/b2drop/apps/core/img/logo.png" alt="Placeholder+logo" width="199px"></a>
 							<div class="logo">
 							</div>
 						</div>
